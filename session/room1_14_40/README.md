@@ -8,7 +8,7 @@ How about to put technology to look at security cameras and identify Babbo Natal
 So, this session will help you, if you hurry, using the latest and greatest that Microsoft (Azure) has to offer, to get Babbo at last red handed, putting the presents under the tree.
 Will have Kinder chocolates, Azure Cognitive Services, KAN, and will create an end-to-end Custom Vision Solution during the session, sound almost as fun as the presents under the tree 😊
 
-![Banner](Room1_14_40.jpeg 'SessionBanner')
+![Banner](room1_14_40.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
 ![Voting Banner](VotingBanner.png 'Voting Banner')
 

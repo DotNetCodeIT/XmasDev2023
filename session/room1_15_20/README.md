@@ -10,7 +10,7 @@ I want Open AI for my own
 More Azure you could ever know
 Make my cloud deploy blue
 All that Open AI is for YOU...
-![Banner](Room1_15_20.jpeg 'SessionBanner')
+![Banner](room1_15_20.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
 ![Voting Banner](VotingBanner.png 'Voting Banner')
 

@@ -7,7 +7,7 @@ Come ogni anno il Babbo più famoso della storia è alle prese con  i regali di 
 Deve orchestrare tutte le operazioni necessarie affinchè nessun bambino sia escluso.
 Catalogare le letterine, raggrupparle, verificare la bontà dei bambini che le hanno inviate, caricare la slitta e preparare le renne per la consegna.
 Riuscirà la nostra Saga ad aiutarlo ad orchestrare il tutto e salvare il Natale?
-![Banner](Room1_14_00.jpeg 'SessionBanner')
+![Banner](room1_14_00.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
 ![Voting Banner](VotingBanner.png 'Voting Banner')
 
