@@ -9,5 +9,5 @@ Using Power Automate and Power Apps, you can easily and simply integrate AI serv
 This session is on how to use ChatGPT with Power Platform solutions for fun, creating Christmas stories. You can enjoy many demos,  providing holiday vibes with the help of OpenAI
 ![Banner](room1_11_40.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
-![Voting Banner](VotingBanner.png 'Voting Banner')
+![Voting Banner](votingBanner.png 'Voting Banner')
 

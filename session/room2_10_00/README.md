@@ -8,5 +8,5 @@ Ovviamente il contenuto della storia è un aiuto enorme (in inglese eh?), magari
 E quindi vediamo di mettere assieme quindi OpenAI, .NET, Blazor e Azure e scrivere una bella avventura testuale (o almeno l’inizio), come piace a me, stile anni ’80!
 ![Banner](room2_10_00.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
-![Voting Banner](VotingBanner.png 'Voting Banner')
+![Voting Banner](votingBanner.png 'Voting Banner')
 

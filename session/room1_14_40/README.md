@@ -10,5 +10,5 @@ Will have Kinder chocolates, Azure Cognitive Services, KAN, and will create an e
 
 ![Banner](room1_14_40.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
-![Voting Banner](VotingBanner.png 'Voting Banner')
+![Voting Banner](votingBanner.png 'Voting Banner')
 

@@ -12,5 +12,5 @@ Make my cloud deploy blue
 All that Open AI is for YOU...
 ![Banner](room1_15_20.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
-![Voting Banner](VotingBanner.png 'Voting Banner')
+![Voting Banner](votingBanner.png 'Voting Banner')
 

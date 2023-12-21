@@ -9,5 +9,5 @@ Catalogare le letterine, raggrupparle, verificare la bontà dei bambini che le h
 Riuscirà la nostra Saga ad aiutarlo ad orchestrare il tutto e salvare il Natale?
 ![Banner](room1_14_00.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
-![Voting Banner](VotingBanner.png 'Voting Banner')
+![Voting Banner](votingBanner.png 'Voting Banner')
 

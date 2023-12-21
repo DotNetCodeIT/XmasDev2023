@@ -9,5 +9,5 @@ Come possiamo aiutare Babbo Natale a gestire tutti questi ambienti in maniera ef
 In questa sessione, introdurremo Template Spec e Deployment Stack nell'infrastruttura di Babbo Natale, e scopriremo come possiamo adottarli anche noi per migliorare la nostra esperienza di deployment in Azure.
 ![Banner](room1_12_20.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
-![Voting Banner](VotingBanner.png 'Voting Banner')
+![Voting Banner](votingBanner.png 'Voting Banner')
 

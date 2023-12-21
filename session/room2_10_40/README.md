@@ -7,5 +7,5 @@ Il Natale è alle porte, e nel mondo di Minecraft la produzione dei biscotti è 
 In questa sessione vedremo come sfruttare i servizi gratuiti di Azure per monitorare la produzione automatica di biscotti e poter così supportare Babbo Natale nel suo viaggio intorno al mondo.
 ![Banner](room2_10_40.jpeg 'SessionBanner')
 ![QR](qr.png 'Qr')
-![Voting Banner](VotingBanner.png 'Voting Banner')
+![Voting Banner](votingBanner.png 'Voting Banner')
 
